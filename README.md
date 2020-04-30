@@ -57,6 +57,9 @@ Tabs and spaces only. Run via [TIO Whitespace](tio-whitespace)
 ### [TIO][tio]
 - Online interpreter for many programming and esoteric languages
 
+### [explain-shell][explain-shell]
+- Visual shell explainer with links to the man page
+
 ### Check file contents
 Common
 ```
@@ -75,6 +78,7 @@ while read line; do echo $line; done < file.txt
 [steganography-online]: https://stylesuxx.github.io/steganography/
 [morse]: https://morsecode.scphillips.com/translator.html
 [crypti]: https://cryptii.com/
+[explain-shell]: https://explainshell.com/
 [tio]: https://tio.run/
 [tio-whitespace]: https://tio.run/#whitespace
 [tio-brainfuck]: https://tio.run/#brainfuck
