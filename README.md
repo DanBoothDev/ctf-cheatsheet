@@ -57,6 +57,20 @@ Tabs and spaces only. Run via [TIO Whitespace](tio-whitespace)
 ### [TIO][tio]
 - Online interpreter for many programming and esoteric languages
 
+### Check file contents
+Common
+```
+cat file.txt
+head file.txt
+less file.txt
+```
+
+Creative
+```
+grep . file.txt
+while read line; do echo $line; done < file.txt
+```
+
 
 [steganography-online]: https://stylesuxx.github.io/steganography/
 [morse]: https://morsecode.scphillips.com/translator.html
